@@ -196,6 +196,7 @@
     <Content Include="Views\Admin\Policy.cshtml" />
     <Content Include="Views\Admin\Question.cshtml" />
     <Content Include="Views\Admin\Reply.cshtml" />
+    <Content Include="Views\Shared\AdminLayout.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
